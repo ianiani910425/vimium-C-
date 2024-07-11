@@ -18,9 +18,8 @@ map r scrollPageUp      " 向上滾動一頁
 map H goBack            " 返回上一頁
 map L goForward         " 前進到下一頁
 
-" 開啟新的頁籤
 map gu goToRoot         " 返回網站根目錄
-map f LinkHints.activate " 激活連結提示
+map z LinkHints.activate " 激活連結提示
 map x removeTab         " 關閉當前頁籤
 map X restoreTab        " 恢復最近關閉的頁籤
 
